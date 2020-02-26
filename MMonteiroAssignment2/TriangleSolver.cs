@@ -14,7 +14,7 @@ namespace MMonteiroAssignment2
             //check if three sides make triangle at all
             if(side1 < 1 || side2 < 1 || side3 < 1)
             {
-                response = "all sides must be greater than 0";
+                response = "All sides must be greater than 0";
             }
             else if(side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1)
             {

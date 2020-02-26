@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMonteiroAssignment2", "MMonteiroAssignment2\MMonteiroAssignment2.csproj", "{C67FE7D4-8E8F-42C4-B31B-F19AE2F3EC82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMonteiroAssignment2.Tests", "MMonteiroAssignment2.Tests\MMonteiroAssignment2.Tests.csproj", "{BA6845F0-65B8-4E9C-B885-774DB41EF43F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C67FE7D4-8E8F-42C4-B31B-F19AE2F3EC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67FE7D4-8E8F-42C4-B31B-F19AE2F3EC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67FE7D4-8E8F-42C4-B31B-F19AE2F3EC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6845F0-65B8-4E9C-B885-774DB41EF43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6845F0-65B8-4E9C-B885-774DB41EF43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6845F0-65B8-4E9C-B885-774DB41EF43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6845F0-65B8-4E9C-B885-774DB41EF43F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
