@@ -1,0 +1,7 @@
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\bin\Debug\MMonteiroAssignment2.exe.config
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\bin\Debug\MMonteiroAssignment2.exe
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\bin\Debug\MMonteiroAssignment2.pdb
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\obj\Debug\MMonteiroAssignment2.csprojAssemblyReference.cache
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\obj\Debug\MMonteiroAssignment2.csproj.CoreCompileInputs.cache
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\obj\Debug\MMonteiroAssignment2.exe
+C:\Conestoga\semester4\QualityAssurance\MMonteiroAssignment2\MMonteiroAssignment2\MMonteiroAssignment2\obj\Debug\MMonteiroAssignment2.pdb
